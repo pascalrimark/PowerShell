@@ -1,4 +1,4 @@
-#Have you ever wondered shy there is no Export-PowerShellDataFile while there is Import-PowershellDataFile.
+# Have you ever wondered why there is no Export-PowerShellDataFile while there is Import-PowershellDataFile.
 
 I personally use a PowerShell data file very often to manage settings on scripts externally. This way I don't always have to customize the script.
 Especially with complex scripts I like to use these files to not have to specify unnecessary many parameters.
@@ -6,7 +6,7 @@ Especially with complex scripts I like to use these files to not have to specify
 However, there is no Microsoft Export-PowershellDataFile cmdlet to write an imported hashtable back into the resulting file.
 For this I use my self written module Export-PowershellDataFile.
 
-#Usage
+# Usage
     import-module PATH-TO-MODULEFILE\Export-PowerShellDataFile.psm1
     
     ## import the psd1 file as hashtable

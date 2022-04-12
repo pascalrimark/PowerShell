@@ -1,0 +1,10 @@
+<!-- Downloads Office365 ProPlus Suite including Language pack : de-de, en-us -->
+<!-- Download location: "Your local ODT Working Directory Path" -->
+<Configuration>
+  <Add SourcePath="PATH" OfficeClientEdition="32">
+   <Product ID="O365ProPlusRetail" >
+     <Language ID="de-de" />
+     <Language ID="en-us" />
+   </Product>
+ </Add> 
+</Configuration>

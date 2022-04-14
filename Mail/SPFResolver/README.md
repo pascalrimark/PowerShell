@@ -21,7 +21,7 @@ Download the PowerShell Script SPFResolver.ps1 to your desired destination and r
 
 You can even submit parameters while starting via powershell
 
-    PATH-TO-THE-SCRIPT\SPFResolver.ps1 -Domain packservice.com -expandResults
+    PATH-TO-THE-SCRIPT\SPFResolver.ps1 -Domain outlook.de -expandResults
 
 This will start the SPFResolver Script directly with the domain outlook.de and the results in the treeview will be directly expanded.
 

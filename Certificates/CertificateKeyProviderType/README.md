@@ -26,4 +26,4 @@ CNG Keys können bspw nicht bei der App-Only Authentfizierung für Exchange Onli
 ## How to use
     Get-CertificateKeyProviderType.ps1 -CertificateLocation Cert:\LocalMachine\My
 
-![Cert](https://github.com/pascalrimark/PowerShell/blob/main/Certificate/CertificateKeyProviderType/Images/CertImage.png?raw=true)
+![Cert](https://github.com/pascalrimark/PowerShell/blob/main/Certificates/CertificateKeyProviderType/Images/CertImage.png?raw=true)
